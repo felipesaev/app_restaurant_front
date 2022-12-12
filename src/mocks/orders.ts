@@ -11,7 +11,7 @@ const orders: Order[] = [
           price: 40,
         },
         quantity: 3,
-        _id: '6372e48cbcd195b0d3d0f7f4'
+        _id: '6372e48cbcd195b0d3d0f7f4',
       },
       {
         product: {
@@ -20,8 +20,9 @@ const orders: Order[] = [
           price: 7,
         },
         quantity: 2,
-        _id: '6372e48cbcd195b0d3d0f7f5'
-      }
+        _id: '6372e48cbcd195b0d3d0f7f5',
+      },
     ],
-  }
+  },
 ];
+
