@@ -6,12 +6,12 @@ const orders: Order[] = [
   {
     "_id": "638f3300aacf2ba41f8fd76b",
     "table": "4",
-    "status": "DONE",
+    "status": "WAITING",
     "products": [
         {
             "product": {
                 "name": "Pizza",
-                "imagePath": '3131231231.png',
+                "imagePath": '1670887568799-png-clipart-pizza-pizza.png',
                 "price": 40,
             },
             "quantity": 3,
